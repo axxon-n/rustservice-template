@@ -1,0 +1,1 @@
+# rustservice-template
